@@ -1,0 +1,10 @@
+{
+  "name": "github-cdn",
+  "version": "1.0.0",
+  "private": false,
+  "main": "./dist/offCanvas.min.js",
+  "license": "MIT",
+  "author": "galvandamiancarlos",
+  "files": [ "README.md","*.{js,json}" ],
+  "keywords": ["github-cdn"]
+}
